@@ -5,5 +5,6 @@ This project is a simple jobs management application built using React, where jo
 
 This project demonstrates CRUD functionality (Create, Read, Update, Delete) and showcases how React interacts with a local REST API.
 
-![Home Page Screenshot](./assets/images/HomePageScreenshot.png)
+
+![Home Page Screenshot](./src/assets/images/HomePageScreenShot.png)
 
